@@ -1,0 +1,1705 @@
+[
+ {
+  "name": "Cottage cheese",
+  "basis": "perItem",
+  "kcal": 300,
+  "protein": 34,
+  "portions": [
+   {
+    "label": "1 pot",
+    "amount": 1
+   }
+  ],
+  "aliases": [
+   "cottage cheese pot"
+  ],
+  "source": "manual"
+ },
+ {
+  "name": "Whey protein",
+  "basis": "perItem",
+  "kcal": 105,
+  "protein": 24,
+  "portions": [
+   {
+    "label": "1 scoop",
+    "amount": 1
+   }
+  ],
+  "aliases": [
+   "protein powder",
+   "whey",
+   "protein shake",
+   "shake"
+  ],
+  "source": "manual"
+ },
+ {
+  "name": "Biltong",
+  "basis": "perItem",
+  "kcal": 206,
+  "protein": 45,
+  "portions": [
+   {
+    "label": "1 pack (80g)",
+    "amount": 1
+   }
+  ],
+  "aliases": [
+   "beef biltong"
+  ],
+  "source": "manual"
+ },
+ {
+  "name": "Goodrays",
+  "basis": "perItem",
+  "kcal": 33,
+  "protein": 0,
+  "portions": [
+   {
+    "label": "1 can (250ml)",
+    "amount": 1
+   }
+  ],
+  "aliases": [
+   "good rays",
+   "cbd drink"
+  ],
+  "source": "manual"
+ },
+ {
+  "name": "Grahams protein yoghurt",
+  "basis": "perItem",
+  "kcal": 160,
+  "protein": 25,
+  "portions": [
+   {
+    "label": "1 pouch",
+    "amount": 1
+   }
+  ],
+  "aliases": [
+   "grahams",
+   "protein yoghurt",
+   "grahams yoghurt"
+  ],
+  "source": "manual"
+ },
+ {
+  "name": "Egg",
+  "basis": "per100g",
+  "kcal": 131,
+  "protein": 12.6,
+  "portions": [
+   {
+    "label": "1 medium (50g)",
+    "amount": 50
+   },
+   {
+    "label": "1 large (60g)",
+    "amount": 60
+   }
+  ],
+  "aliases": [
+   "eggs",
+   "fried egg",
+   "scrambled eggs",
+   "scrambled egg",
+   "omelette",
+   "boiled egg",
+   "poached egg"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Coffee with milk",
+  "basis": "perItem",
+  "kcal": 100,
+  "protein": 7,
+  "portions": [
+   {
+    "label": "regular",
+    "amount": 1
+   },
+   {
+    "label": "small",
+    "amount": 0.6
+   },
+   {
+    "label": "large",
+    "amount": 1.4
+   }
+  ],
+  "aliases": [
+   "flat white",
+   "cappuccino",
+   "latte",
+   "white coffee",
+   "iced coffee",
+   "coffee"
+  ],
+  "source": "manual"
+ },
+ {
+  "name": "Black coffee",
+  "basis": "perItem",
+  "kcal": 2,
+  "protein": 0.3,
+  "portions": [
+   {
+    "label": "1 cup",
+    "amount": 1
+   }
+  ],
+  "aliases": [
+   "americano",
+   "espresso",
+   "filter coffee"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Tea with milk",
+  "basis": "perItem",
+  "kcal": 15,
+  "protein": 1,
+  "portions": [
+   {
+    "label": "1 cup",
+    "amount": 1
+   }
+  ],
+  "aliases": [
+   "tea",
+   "cup of tea",
+   "builders tea"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Sardines, canned in brine",
+  "basis": "per100g",
+  "kcal": 172,
+  "protein": 21.5,
+  "portions": [
+   {
+    "label": "1 can drained (90g)",
+    "amount": 90
+   }
+  ],
+  "aliases": [
+   "sardines"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Sardines, canned in oil",
+  "basis": "per100g",
+  "kcal": 220,
+  "protein": 23.3,
+  "portions": [
+   {
+    "label": "1 can drained (90g)",
+    "amount": 90
+   }
+  ],
+  "aliases": [
+   "sardines in oil"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Mackerel, canned",
+  "basis": "per100g",
+  "kcal": 206,
+  "protein": 19,
+  "portions": [
+   {
+    "label": "1 can drained (90g)",
+    "amount": 90
+   }
+  ],
+  "aliases": [
+   "mackerel"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Tuna, canned in water",
+  "basis": "per100g",
+  "kcal": 109,
+  "protein": 25,
+  "portions": [
+   {
+    "label": "1 small can drained (102g)",
+    "amount": 102
+   }
+  ],
+  "aliases": [
+   "tuna",
+   "tuna in water",
+   "tuna in brine"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Chicken breast, cooked",
+  "basis": "per100g",
+  "kcal": 148,
+  "protein": 32,
+  "portions": [
+   {
+    "label": "1 breast (130g)",
+    "amount": 130
+   },
+   {
+    "label": "100g",
+    "amount": 100
+   }
+  ],
+  "aliases": [
+   "chicken",
+   "grilled chicken",
+   "chicken breast"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Chicken wings, cooked",
+  "basis": "per100g",
+  "kcal": 240,
+  "protein": 24,
+  "portions": [
+   {
+    "label": "1 wing (35g edible)",
+    "amount": 35
+   }
+  ],
+  "aliases": [
+   "wings",
+   "chicken wing"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Prawns, cooked",
+  "basis": "per100g",
+  "kcal": 99,
+  "protein": 22.6,
+  "portions": [
+   {
+    "label": "100g",
+    "amount": 100
+   }
+  ],
+  "aliases": [
+   "prawns",
+   "gambas",
+   "king prawns"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Smoked salmon",
+  "basis": "per100g",
+  "kcal": 142,
+  "protein": 25.4,
+  "portions": [
+   {
+    "label": "100g",
+    "amount": 100
+   },
+   {
+    "label": "50g",
+    "amount": 50
+   }
+  ],
+  "aliases": [
+   "salmon"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Edamame",
+  "basis": "per100g",
+  "kcal": 122,
+  "protein": 11.9,
+  "portions": [
+   {
+    "label": "handful (40g)",
+    "amount": 40
+   },
+   {
+    "label": "half cup (75g)",
+    "amount": 75
+   }
+  ],
+  "aliases": [
+   "edamame beans"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Plain tortilla wrap",
+  "basis": "per100g",
+  "kcal": 300,
+  "protein": 8.5,
+  "portions": [
+   {
+    "label": "1 wrap (60g)",
+    "amount": 60
+   }
+  ],
+  "aliases": [
+   "wrap",
+   "tortilla"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Pesto",
+  "basis": "per100g",
+  "kcal": 470,
+  "protein": 5,
+  "portions": [
+   {
+    "label": "1 tbsp (15g)",
+    "amount": 15
+   }
+  ],
+  "aliases": [
+   "green pesto"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Honey",
+  "basis": "per100g",
+  "kcal": 288,
+  "protein": 0.3,
+  "portions": [
+   {
+    "label": "1 tsp (7g)",
+    "amount": 7
+   },
+   {
+    "label": "1 tbsp (20g)",
+    "amount": 20
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Jam",
+  "basis": "per100g",
+  "kcal": 261,
+  "protein": 0.4,
+  "portions": [
+   {
+    "label": "1 tbsp (15g)",
+    "amount": 15
+   }
+  ],
+  "aliases": [
+   "strawberry jam"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Olives",
+  "basis": "per100g",
+  "kcal": 103,
+  "protein": 0.9,
+  "portions": [
+   {
+    "label": "handful (30g)",
+    "amount": 30
+   }
+  ],
+  "aliases": [
+   "green olives",
+   "black olives"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Mixed nuts",
+  "basis": "per100g",
+  "kcal": 600,
+  "protein": 21,
+  "portions": [
+   {
+    "label": "handful (30g)",
+    "amount": 30
+   }
+  ],
+  "aliases": [
+   "nuts"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Melon",
+  "basis": "per100g",
+  "kcal": 24,
+  "protein": 0.6,
+  "portions": [
+   {
+    "label": "1 slice (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "honeydew",
+   "cantaloupe"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Watermelon",
+  "basis": "per100g",
+  "kcal": 31,
+  "protein": 0.5,
+  "portions": [
+   {
+    "label": "1 slice (200g)",
+    "amount": 200
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Kiwi",
+  "basis": "per100g",
+  "kcal": 49,
+  "protein": 1.1,
+  "portions": [
+   {
+    "label": "1 kiwi (60g)",
+    "amount": 60
+   }
+  ],
+  "aliases": [
+   "kiwi fruit"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Nectarine",
+  "basis": "per100g",
+  "kcal": 40,
+  "protein": 1.4,
+  "portions": [
+   {
+    "label": "1 nectarine (125g)",
+    "amount": 125
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Mango",
+  "basis": "per100g",
+  "kcal": 57,
+  "protein": 0.7,
+  "portions": [
+   {
+    "label": "1 portion (120g)",
+    "amount": 120
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Berries, mixed",
+  "basis": "per100g",
+  "kcal": 40,
+  "protein": 0.9,
+  "portions": [
+   {
+    "label": "handful (80g)",
+    "amount": 80
+   }
+  ],
+  "aliases": [
+   "berries",
+   "strawberries",
+   "blueberries",
+   "raspberries"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Banana",
+  "basis": "per100g",
+  "kcal": 95,
+  "protein": 1.2,
+  "portions": [
+   {
+    "label": "1 medium (100g)",
+    "amount": 100
+   },
+   {
+    "label": "1 small (80g)",
+    "amount": 80
+   },
+   {
+    "label": "1 large (120g)",
+    "amount": 120
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Apple",
+  "basis": "per100g",
+  "kcal": 52,
+  "protein": 0.3,
+  "portions": [
+   {
+    "label": "medium (150g)",
+    "amount": 150
+   },
+   {
+    "label": "small (100g)",
+    "amount": 100
+   },
+   {
+    "label": "large (200g)",
+    "amount": 200
+   }
+  ],
+  "aliases": [
+   "apples"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Orange",
+  "basis": "per100g",
+  "kcal": 37,
+  "protein": 1.1,
+  "portions": [
+   {
+    "label": "1 medium (160g)",
+    "amount": 160
+   }
+  ],
+  "aliases": [
+   "satsuma",
+   "clementine"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Pear",
+  "basis": "per100g",
+  "kcal": 40,
+  "protein": 0.3,
+  "portions": [
+   {
+    "label": "1 medium (160g)",
+    "amount": 160
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Grapes",
+  "basis": "per100g",
+  "kcal": 60,
+  "protein": 0.4,
+  "portions": [
+   {
+    "label": "handful (80g)",
+    "amount": 80
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Avocado",
+  "basis": "per100g",
+  "kcal": 190,
+  "protein": 1.9,
+  "portions": [
+   {
+    "label": "half (75g)",
+    "amount": 75
+   },
+   {
+    "label": "whole (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "avo"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Tomato",
+  "basis": "per100g",
+  "kcal": 17,
+  "protein": 0.7,
+  "portions": [
+   {
+    "label": "1 medium (85g)",
+    "amount": 85
+   }
+  ],
+  "aliases": [
+   "tomatoes",
+   "cherry tomatoes"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Cucumber",
+  "basis": "per100g",
+  "kcal": 10,
+  "protein": 0.7,
+  "portions": [
+   {
+    "label": "80g",
+    "amount": 80
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Carrot",
+  "basis": "per100g",
+  "kcal": 34,
+  "protein": 0.6,
+  "portions": [
+   {
+    "label": "1 medium (80g)",
+    "amount": 80
+   }
+  ],
+  "aliases": [
+   "carrots"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Broccoli, boiled",
+  "basis": "per100g",
+  "kcal": 24,
+  "protein": 3.1,
+  "portions": [
+   {
+    "label": "1 portion (80g)",
+    "amount": 80
+   }
+  ],
+  "aliases": [
+   "broccoli",
+   "tenderstem"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Spinach",
+  "basis": "per100g",
+  "kcal": 25,
+  "protein": 2.8,
+  "portions": [
+   {
+    "label": "handful (30g)",
+    "amount": 30
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Mixed salad leaves",
+  "basis": "per100g",
+  "kcal": 15,
+  "protein": 1,
+  "portions": [
+   {
+    "label": "1 bowl (50g)",
+    "amount": 50
+   }
+  ],
+  "aliases": [
+   "salad",
+   "side salad",
+   "leaves"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Peas, boiled",
+  "basis": "per100g",
+  "kcal": 79,
+  "protein": 6,
+  "portions": [
+   {
+    "label": "1 portion (80g)",
+    "amount": 80
+   }
+  ],
+  "aliases": [
+   "peas",
+   "frozen peas"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Sweetcorn",
+  "basis": "per100g",
+  "kcal": 94,
+  "protein": 2.8,
+  "portions": [
+   {
+    "label": "1 portion (80g)",
+    "amount": 80
+   }
+  ],
+  "aliases": [
+   "corn"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Mushrooms",
+  "basis": "per100g",
+  "kcal": 13,
+  "protein": 1.8,
+  "portions": [
+   {
+    "label": "handful (60g)",
+    "amount": 60
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Onion",
+  "basis": "per100g",
+  "kcal": 36,
+  "protein": 1.2,
+  "portions": [
+   {
+    "label": "1 medium (100g)",
+    "amount": 100
+   }
+  ],
+  "aliases": [
+   "onions"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Peppers",
+  "basis": "per100g",
+  "kcal": 26,
+  "protein": 1,
+  "portions": [
+   {
+    "label": "half (80g)",
+    "amount": 80
+   }
+  ],
+  "aliases": [
+   "pepper",
+   "red pepper"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Potato, boiled",
+  "basis": "per100g",
+  "kcal": 72,
+  "protein": 1.8,
+  "portions": [
+   {
+    "label": "1 medium (175g)",
+    "amount": 175
+   }
+  ],
+  "aliases": [
+   "potatoes",
+   "new potatoes",
+   "boiled potatoes"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Sweet potato, baked",
+  "basis": "per100g",
+  "kcal": 115,
+  "protein": 1.6,
+  "portions": [
+   {
+    "label": "1 medium (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "sweet potato"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Chips, oven",
+  "basis": "per100g",
+  "kcal": 162,
+  "protein": 3.2,
+  "portions": [
+   {
+    "label": "1 portion (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "chips",
+   "fries"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "White rice, boiled",
+  "basis": "per100g",
+  "kcal": 138,
+  "protein": 2.6,
+  "portions": [
+   {
+    "label": "1 portion (180g)",
+    "amount": 180
+   }
+  ],
+  "aliases": [
+   "rice",
+   "white rice"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Brown rice, boiled",
+  "basis": "per100g",
+  "kcal": 141,
+  "protein": 2.6,
+  "portions": [
+   {
+    "label": "1 portion (180g)",
+    "amount": 180
+   }
+  ],
+  "aliases": [
+   "brown rice"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Pasta, boiled",
+  "basis": "per100g",
+  "kcal": 158,
+  "protein": 5.8,
+  "portions": [
+   {
+    "label": "1 portion (230g)",
+    "amount": 230
+   }
+  ],
+  "aliases": [
+   "pasta",
+   "spaghetti",
+   "penne"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Quinoa, cooked",
+  "basis": "per100g",
+  "kcal": 120,
+  "protein": 4.4,
+  "portions": [
+   {
+    "label": "1 portion (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "quinoa"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Couscous, cooked",
+  "basis": "per100g",
+  "kcal": 112,
+  "protein": 3.8,
+  "portions": [
+   {
+    "label": "1 portion (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "couscous"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Bread, white",
+  "basis": "per100g",
+  "kcal": 236,
+  "protein": 8.4,
+  "portions": [
+   {
+    "label": "1 slice (40g)",
+    "amount": 40
+   }
+  ],
+  "aliases": [
+   "toast",
+   "white toast",
+   "white bread",
+   "slice of toast"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Bread, wholemeal",
+  "basis": "per100g",
+  "kcal": 217,
+  "protein": 9.4,
+  "portions": [
+   {
+    "label": "1 slice (40g)",
+    "amount": 40
+   }
+  ],
+  "aliases": [
+   "brown bread",
+   "brown toast",
+   "wholemeal toast"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Sourdough",
+  "basis": "per100g",
+  "kcal": 250,
+  "protein": 9,
+  "portions": [
+   {
+    "label": "1 slice (50g)",
+    "amount": 50
+   }
+  ],
+  "aliases": [
+   "sourdough toast"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Bagel, plain",
+  "basis": "per100g",
+  "kcal": 270,
+  "protein": 10,
+  "portions": [
+   {
+    "label": "1 bagel (85g)",
+    "amount": 85
+   }
+  ],
+  "aliases": [
+   "bagel"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Croissant",
+  "basis": "per100g",
+  "kcal": 412,
+  "protein": 8,
+  "portions": [
+   {
+    "label": "1 croissant (60g)",
+    "amount": 60
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Porridge oats",
+  "basis": "per100g",
+  "kcal": 375,
+  "protein": 11,
+  "portions": [
+   {
+    "label": "1 portion (40g)",
+    "amount": 40
+   }
+  ],
+  "aliases": [
+   "oats",
+   "porridge",
+   "overnight oats"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Granola",
+  "basis": "per100g",
+  "kcal": 450,
+  "protein": 9,
+  "portions": [
+   {
+    "label": "1 portion (45g)",
+    "amount": 45
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Rice cake",
+  "basis": "per100g",
+  "kcal": 380,
+  "protein": 8,
+  "portions": [
+   {
+    "label": "1 cake (8g)",
+    "amount": 8
+   }
+  ],
+  "aliases": [
+   "rice cakes"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Crisps",
+  "basis": "per100g",
+  "kcal": 530,
+  "protein": 6,
+  "portions": [
+   {
+    "label": "1 bag (25g)",
+    "amount": 25
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Semi-skimmed milk",
+  "basis": "per100ml",
+  "kcal": 46,
+  "protein": 3.5,
+  "portions": [
+   {
+    "label": "splash (30ml)",
+    "amount": 30
+   },
+   {
+    "label": "1 glass (200ml)",
+    "amount": 200
+   }
+  ],
+  "aliases": [
+   "milk"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Skimmed milk",
+  "basis": "per100ml",
+  "kcal": 34,
+  "protein": 3.5,
+  "portions": [
+   {
+    "label": "splash (30ml)",
+    "amount": 30
+   },
+   {
+    "label": "1 glass (200ml)",
+    "amount": 200
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Whole milk",
+  "basis": "per100ml",
+  "kcal": 63,
+  "protein": 3.4,
+  "portions": [
+   {
+    "label": "splash (30ml)",
+    "amount": 30
+   },
+   {
+    "label": "1 glass (200ml)",
+    "amount": 200
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Oat milk",
+  "basis": "per100ml",
+  "kcal": 45,
+  "protein": 0.3,
+  "portions": [
+   {
+    "label": "splash (30ml)",
+    "amount": 30
+   },
+   {
+    "label": "1 glass (200ml)",
+    "amount": 200
+   }
+  ],
+  "aliases": [
+   "oat drink",
+   "oatly"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Greek yoghurt, full fat",
+  "basis": "per100g",
+  "kcal": 133,
+  "protein": 5.7,
+  "portions": [
+   {
+    "label": "1 portion (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "greek yoghurt"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Natural yoghurt",
+  "basis": "per100g",
+  "kcal": 79,
+  "protein": 5.7,
+  "portions": [
+   {
+    "label": "1 portion (150g)",
+    "amount": 150
+   }
+  ],
+  "aliases": [
+   "yoghurt",
+   "plain yoghurt"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Cheddar",
+  "basis": "per100g",
+  "kcal": 416,
+  "protein": 25.4,
+  "portions": [
+   {
+    "label": "1 portion (30g)",
+    "amount": 30
+   }
+  ],
+  "aliases": [
+   "cheese",
+   "cheddar cheese"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Mozzarella",
+  "basis": "per100g",
+  "kcal": 257,
+  "protein": 18.6,
+  "portions": [
+   {
+    "label": "half ball (60g)",
+    "amount": 60
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Feta",
+  "basis": "per100g",
+  "kcal": 250,
+  "protein": 15.6,
+  "portions": [
+   {
+    "label": "1 portion (30g)",
+    "amount": 30
+   }
+  ],
+  "aliases": [
+   "feta cheese"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Halloumi",
+  "basis": "per100g",
+  "kcal": 316,
+  "protein": 21,
+  "portions": [
+   {
+    "label": "2 slices (50g)",
+    "amount": 50
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Butter",
+  "basis": "per100g",
+  "kcal": 744,
+  "protein": 0.6,
+  "portions": [
+   {
+    "label": "1 portion (10g)",
+    "amount": 10
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ },
+ {
+  "name": "Beef mince, lean, cooked",
+  "basis": "per100g",
+  "kcal": 210,
+  "protein": 27,
+  "portions": [
+   {
+    "label": "1 portion (125g)",
+    "amount": 125
+   }
+  ],
+  "aliases": [
+   "mince",
+   "beef mince"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Steak, sirloin, grilled",
+  "basis": "per100g",
+  "kcal": 176,
+  "protein": 31,
+  "portions": [
+   {
+    "label": "1 steak (170g)",
+    "amount": 170
+   }
+  ],
+  "aliases": [
+   "steak",
+   "sirloin"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Salmon fillet, cooked",
+  "basis": "per100g",
+  "kcal": 215,
+  "protein": 24,
+  "portions": [
+   {
+    "label": "1 fillet (120g)",
+    "amount": 120
+   }
+  ],
+  "aliases": [
+   "salmon fillet",
+   "baked salmon"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Cod, baked",
+  "basis": "per100g",
+  "kcal": 98,
+  "protein": 21,
+  "portions": [
+   {
+    "label": "1 fillet (120g)",
+    "amount": 120
+   }
+  ],
+  "aliases": [
+   "cod",
+   "white fish"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Bacon, back, grilled",
+  "basis": "per100g",
+  "kcal": 287,
+  "protein": 23,
+  "portions": [
+   {
+    "label": "1 rasher (25g)",
+    "amount": 25
+   }
+  ],
+  "aliases": [
+   "bacon"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Pork sausage, grilled",
+  "basis": "per100g",
+  "kcal": 294,
+  "protein": 15,
+  "portions": [
+   {
+    "label": "1 sausage (40g)",
+    "amount": 40
+   }
+  ],
+  "aliases": [
+   "sausage",
+   "sausages"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Ham",
+  "basis": "per100g",
+  "kcal": 107,
+  "protein": 18,
+  "portions": [
+   {
+    "label": "1 slice (25g)",
+    "amount": 25
+   }
+  ],
+  "aliases": [
+   "ham slices"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Turkey breast slices",
+  "basis": "per100g",
+  "kcal": 104,
+  "protein": 24,
+  "portions": [
+   {
+    "label": "1 slice (25g)",
+    "amount": 25
+   }
+  ],
+  "aliases": [
+   "turkey"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Tofu, firm",
+  "basis": "per100g",
+  "kcal": 118,
+  "protein": 12,
+  "portions": [
+   {
+    "label": "1 portion (100g)",
+    "amount": 100
+   }
+  ],
+  "aliases": [
+   "tofu"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Lentils, boiled",
+  "basis": "per100g",
+  "kcal": 100,
+  "protein": 7.6,
+  "portions": [
+   {
+    "label": "1 portion (120g)",
+    "amount": 120
+   }
+  ],
+  "aliases": [
+   "lentils",
+   "dal"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Chickpeas, canned, drained",
+  "basis": "per100g",
+  "kcal": 115,
+  "protein": 7.2,
+  "portions": [
+   {
+    "label": "half can (120g)",
+    "amount": 120
+   }
+  ],
+  "aliases": [
+   "chickpeas"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Baked beans",
+  "basis": "per100g",
+  "kcal": 80,
+  "protein": 4.7,
+  "portions": [
+   {
+    "label": "half can (207g)",
+    "amount": 207
+   }
+  ],
+  "aliases": [
+   "beans",
+   "heinz beans"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Hummus",
+  "basis": "per100g",
+  "kcal": 300,
+  "protein": 7,
+  "portions": [
+   {
+    "label": "2 tbsp (30g)",
+    "amount": 30
+   }
+  ],
+  "aliases": [
+   "houmous",
+   "humous"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Olive oil",
+  "basis": "per100g",
+  "kcal": 899,
+  "protein": 0,
+  "portions": [
+   {
+    "label": "1 tbsp (14g)",
+    "amount": 14
+   },
+   {
+    "label": "1 tsp (5g)",
+    "amount": 5
+   }
+  ],
+  "aliases": [
+   "oil"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Peanut butter",
+  "basis": "per100g",
+  "kcal": 600,
+  "protein": 25,
+  "portions": [
+   {
+    "label": "1 tbsp (16g)",
+    "amount": 16
+   }
+  ],
+  "aliases": [
+   "pb"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Mayonnaise",
+  "basis": "per100g",
+  "kcal": 690,
+  "protein": 1.1,
+  "portions": [
+   {
+    "label": "1 tbsp (15g)",
+    "amount": 15
+   }
+  ],
+  "aliases": [
+   "mayo"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Ketchup",
+  "basis": "per100g",
+  "kcal": 112,
+  "protein": 1.2,
+  "portions": [
+   {
+    "label": "1 tbsp (15g)",
+    "amount": 15
+   }
+  ],
+  "aliases": [
+   "tomato ketchup"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Dark chocolate 70%",
+  "basis": "per100g",
+  "kcal": 580,
+  "protein": 7.8,
+  "portions": [
+   {
+    "label": "2 squares (20g)",
+    "amount": 20
+   }
+  ],
+  "aliases": [
+   "dark chocolate"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Milk chocolate",
+  "basis": "per100g",
+  "kcal": 530,
+  "protein": 7.6,
+  "portions": [
+   {
+    "label": "2 squares (20g)",
+    "amount": 20
+   }
+  ],
+  "aliases": [
+   "chocolate"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Orange juice",
+  "basis": "per100ml",
+  "kcal": 36,
+  "protein": 0.5,
+  "portions": [
+   {
+    "label": "1 glass (200ml)",
+    "amount": 200
+   }
+  ],
+  "aliases": [
+   "oj",
+   "juice"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Coca-Cola",
+  "basis": "per100ml",
+  "kcal": 42,
+  "protein": 0,
+  "portions": [
+   {
+    "label": "1 can (330ml)",
+    "amount": 330
+   }
+  ],
+  "aliases": [
+   "coke",
+   "cola"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Diet Coke",
+  "basis": "per100ml",
+  "kcal": 0.4,
+  "protein": 0,
+  "portions": [
+   {
+    "label": "1 can (330ml)",
+    "amount": 330
+   }
+  ],
+  "aliases": [
+   "coke zero",
+   "diet cola"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Lager",
+  "basis": "per100ml",
+  "kcal": 41,
+  "protein": 0.3,
+  "portions": [
+   {
+    "label": "1 pint (568ml)",
+    "amount": 568
+   },
+   {
+    "label": "1 bottle (330ml)",
+    "amount": 330
+   }
+  ],
+  "aliases": [
+   "beer",
+   "pint"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "Red wine",
+  "basis": "per100ml",
+  "kcal": 76,
+  "protein": 0.1,
+  "portions": [
+   {
+    "label": "1 glass (175ml)",
+    "amount": 175
+   }
+  ],
+  "aliases": [
+   "wine"
+  ],
+  "source": "cofid"
+ },
+ {
+  "name": "White wine",
+  "basis": "per100ml",
+  "kcal": 74,
+  "protein": 0.1,
+  "portions": [
+   {
+    "label": "1 glass (175ml)",
+    "amount": 175
+   }
+  ],
+  "aliases": [],
+  "source": "cofid"
+ }
+]
